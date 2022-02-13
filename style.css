@@ -1,0 +1,23 @@
+.main{
+    margin-left: 41%;
+    padding-top: 175px;
+    height: 11%;
+}
+
+body{
+    background-color: #F7F7F7;
+}
+
+.search{
+    height: 45px;
+    width: 650px;
+    border-radius: 30px;
+    border: none;
+    outline: 0.2px rgb(238, 237, 237) solid;
+    box-shadow: 0.5px black;
+}
+
+.two{
+  padding-top: 60px;
+  padding-left: 350px;
+}
